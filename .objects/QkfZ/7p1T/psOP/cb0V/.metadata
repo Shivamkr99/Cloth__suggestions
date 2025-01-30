@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Mostly Cloudy",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "cb0V3FMiEUeK7ZuX-lvGVQ",
+  "Reference": "a8w3btkatUOSxBFMFGuj2w/cb0V3FMiEUeK7ZuX-lvGVQ",
+  "ParentRef": "a8w3btkatUOSxBFMFGuj2w/psOPqxiSOU2jd5hKg7rPVA",
+  "Created": "2025-01-16T17:48:55.6131276Z",
+  "Updated": "2025-01-16T17:48:55.6131276Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

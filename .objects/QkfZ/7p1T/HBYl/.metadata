@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome weather in in Fahrenheit - Google Sear",
+  "Type": "Screen",
+  "Id": "HBYlysrvjUKjVeBjqjpiMQ",
+  "Reference": "a8w3btkatUOSxBFMFGuj2w/HBYlysrvjUKjVeBjqjpiMQ",
+  "ParentRef": "a8w3btkatUOSxBFMFGuj2w/7p1TK5SBE0qT7y5by3TyEA",
+  "Created": "2025-01-26T05:47:17.3915879Z",
+  "Updated": "2025-01-26T05:47:17.3915879Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

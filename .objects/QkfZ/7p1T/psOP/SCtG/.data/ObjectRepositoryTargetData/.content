@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="OpcV28pMIk6BuqapiP4bcQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/search" CVScreenId="13923fa3-4137-44ab-88b9-d868e8c3391a" CvTextArea="249, 618, 81, 60" CvType="AnyWordGroup" DesignTimeRectangle="251, 609, 80, 80" DesignTimeScaleFactor="1.5" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='wob_tm' tag='SPAN' type='' class='wob_t q8U8x' /&gt;" Guid="40027524-dbb1-4119-aa5d-87e8d0787a79" ScopeSelectorArgument="&lt;html app='chrome.exe' title='weather in dhanbad in fahrenheit - Google Search' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="b4a1df3946032186053365e6c2831598.png" xmlns="">04UIzEkyG-0OS58chASFwFw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
